@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+  .conteine-menu {
+    background-color: #1F2022;
+    margin: auto;
+    width: 100%;
+    padding: 38px 0 38px 0;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+}  
+ 
+  .top {
+    background-color: #1F2022;
+    color: aliceblue;
+    width: 70%;
+    margin: auto;
+    padding-top: 20px;   
+  }
+
+  .top a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  }
+
+  .conteine-menu h1 {
+    font-size: 15px;
+    text-align: left;
+    float: left;
+    color: #00ADB5;
+    font-weight: 800;
+  }
+  

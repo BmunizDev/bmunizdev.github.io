@@ -71,7 +71,27 @@ body {
     padding: 30px 30px;
   }
 
-  .roda-pe{
+  .container-rodape {
+    background-color: #e5e5e5;
+    width: 100%;
+    margin: auto;
+  }
 
+  .roda-pe {
+    background-color: #e5e5e5;
+    color:rgb(0, 0, 0);
+    width: 70%;
+    margin: auto;
+    padding: 30px 0;
+ 
+  }
+
+  .roda-pe a {
+    color: rgb(0, 0, 0);
     
   }
+
+.roda-pe h5 {
+    float: right;
+    font-weight: 500;
+}
